@@ -1,2 +1,2 @@
-My resolution to LeetCode problems utilizing C++
+My resolution to LeetCode problems utilizing C++.
 
