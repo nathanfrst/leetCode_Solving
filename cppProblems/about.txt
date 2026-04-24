@@ -1,1 +1,1 @@
-LeetCode problems on C++ Language
+My resolution to LeetCode problems utilizing C++.
